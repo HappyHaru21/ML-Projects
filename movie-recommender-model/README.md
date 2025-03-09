@@ -10,7 +10,7 @@ The dataset used in this project is the TMDB 5000 Movie Dataset, which contains 
 To get started with the movie recommender system, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender-model.git
+git clone https://github.com/HappyHaru21/movie-recommender-model.git
 cd movie-recommender-model
 pip install -r requirements.txt
 ```

@@ -7,7 +7,7 @@ This repository contains various machine learning projects demonstrating differe
 To get started with any of the projects, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/ML-Projects.git
+git clone https://github.com/HappyHaru21/ML-Projects.git
 cd ML-Projects
 pip install -r requirements.txt
 ```
